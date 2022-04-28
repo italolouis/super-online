@@ -1,0 +1,51 @@
+{
+  "data" :
+  [
+    {
+      "id": 1,
+      "descricao" : "Sabão em pó",
+      "valor" : 10.50,
+      "imagem" : "../../../assets/produtos/sabao-po.jpeg",
+      "prazoValidade" : "11/09/2023",
+      "estoque" : 100,
+      "quantidade" : 1,
+      "selecionado": false,
+      "adicionado": false
+    },
+    {
+      "id": 2,
+      "descricao" : "Arroz",
+      "valor" : 52.10,
+      "imagem" : "../../../assets/produtos/sabao-po.jpeg",
+      "prazoValidade" : "11/09/2023",
+      "estoque" : 200,
+      "quantidade" : 1,
+      "selecionado": false,
+      "adicionado": false
+    },
+    {
+      "id": 3,
+      "descricao" : "Macarrão",
+      "valor" : "24.10",
+      "imagem" : "../../../assets/produtos/sabao-po.jpeg",
+      "prazoValidade" : "11/09/2023",
+      "estoque" : 100,
+      "quantidade" : 1,
+      "selecionado": false,
+      "adicionado": false
+    },
+    {
+      "id": 4,
+      "descricao" : "Feijão",
+      "valor" : "12",
+      "imagem" : "../../../assets/produtos/sabao-po.jpeg",
+      "prazoValidade" : "11/09/2023",
+      "estoque" : 200,
+      "quantidade" : 1,
+      "selecionado": false,
+      "adicionado": false
+    }
+  ]
+}
+
+
